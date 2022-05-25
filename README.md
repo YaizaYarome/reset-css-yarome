@@ -1,5 +1,5 @@
 <div>
- <h1 align=center> My Custom Reset-Css </h1>
+ <h1 align=center> Mi Reset-Css </h1>
 
 <p align=center>
 <img src="https://i.imgur.com/Pnbigej.jpg" style="width:400px" alt="banner">
